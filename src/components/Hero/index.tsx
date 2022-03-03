@@ -48,7 +48,7 @@ export function Hero() {
               fontSize={["sm", "lg"]}
               aria-label="Subtitulo da página"
             >
-              Conheça o EloGames: é a solução que vai organiar e agilizar sua
+              Conheça o EloGames: é a solução que vai organizar e agilizar sua
               vida, além de oferecer benefícios promoções e conteúdos
               personalizados, para você dentro de um único espaço.
             </Text>
