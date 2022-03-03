@@ -131,7 +131,7 @@ export class FormContact extends Component {
             </Stack>           
             
             <Box as="div">
-              <Button border="none" colorScheme="yellow" mt="2" mb="2" ml="2" onClick={this.sendMessage}>
+              <Button border="none" colorScheme="yellow" rounded="full" size="lg" mt="2" mb="2" ml="2" onClick={this.sendMessage}>
                 <Box mr="2" d="flex" alignItems="center">
                   <RiMailSendLine />
                 </Box>
