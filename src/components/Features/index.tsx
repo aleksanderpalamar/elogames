@@ -48,7 +48,7 @@ export function Features() {
               fontSize={["5xl", "6xl"]}
               fontWeight="extrabold"
               color="gray.800"
-              aria-label="Titulo da página"
+              aria-label="Mais tempo pra jogar, menos tempo fazendo login"
             >
               Mais tempo pra jogar, menos tempo fazendo login.
             </Text>
@@ -60,7 +60,7 @@ export function Features() {
               color="gray.500"
               fontWeight={["bold", "bold"]}
               fontSize={["sm", "lg"]}
-              aria-label="Subtitulo da página"
+              aria-label="Texto"
             >
               Criamos um produto que facilita sua conexão com suas diferentes plataformas de jogo
               seja Playstation, Nintendo Switch, PC, ou celular, não importa. Agora todas elas podem 
@@ -74,7 +74,7 @@ export function Features() {
               color="blue.500"
               fontWeight={["bold", "bold"]}
               fontSize={["sm", "lg"]}
-              aria-label="Subtitulo da página"
+              aria-label="Você está no controle"
             >
               Você está no controle.
             </Text>

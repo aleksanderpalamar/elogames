@@ -44,7 +44,7 @@ export function ContentSections() {
               fontSize={["5xl", "6xl"]}
               fontWeight="extrabold"
               color="gray.300"
-              aria-label="Titulo da página"
+              aria-label="Titulo"
               p="4"
             >
               Conteúdo personalizado: Promoções de acordo com o que faz sentindo

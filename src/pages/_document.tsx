@@ -10,7 +10,7 @@ export default class MyDocument extends Document {
             href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,700;1,300;1,900&display=swap"
             rel="stylesheet"
           />
-          <link rel="shortcut icon" href="favicon.png" type="image/png" />          
+          <link rel="shortcut icon" href="favicon.ico" type="image/ico" />          
           <link rel="apple-touch-icon" href="/icon.png"></link>
           <meta name="theme-color" content="#f5b83f" />
           <meta

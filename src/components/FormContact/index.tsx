@@ -96,7 +96,7 @@ export class FormContact extends Component {
           <Box as="div" bg="gray.100" h="1/3" w="2/3" />
         </Box>
         <Box as="div" position="relative" maxW="7xl" mx="auto">
-          <FormControl>            
+          <FormControl id="formulario">            
             <Input name="nome" id="sender-name" placeholder="Nome" type="text" />
             <Input name="email" id="sender-email" placeholder="E-mail" type="email" />
             <Input name="phone" id="sender-phone" placeholder="Telefone" type="text" />

@@ -29,6 +29,7 @@ export function Info() {
             textColor="gray.100"
             d="flex"
             alignItems="center"
+            aria-label="Titulo"
           >
             Chegue primeiro, ganhe vantagens e faça parte dessa história.
           </Heading>
@@ -38,6 +39,7 @@ export function Info() {
             fontSize={["sm", "xl"]}
             fontWeight="medium"
             textColor="gray.300"
+            aria-label="Subtitulo"
           >
             Inscreva-se e tenha prioridade para aproveitar o nosso app e receber
             benefícios. Seja um dos pioneiros e nos ajude nessa fase de
@@ -47,7 +49,7 @@ export function Info() {
           <Button colorScheme="green" rounded="full" size="lg" mt="16" mb="4">
             <Link href="#formulario">
               <a>
-                <Text fontWeight="bold">Tenho interesse</Text>
+                <Text fontWeight="bold" aria-label="Formulario de contato">Tenho interesse</Text>
               </a>
             </Link>
           </Button>
